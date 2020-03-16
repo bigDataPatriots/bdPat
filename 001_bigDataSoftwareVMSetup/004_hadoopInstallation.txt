@@ -10,8 +10,8 @@ chmod 0600 ~/.ssh/authorized_keys
 
 #--SETUP-->
 wget https://apache.cs.utah.edu/hadoop/common/hadoop-3.1.3/hadoop-3.1.3.tar.gz
-tar xzf hadoop-3.1.2.tar.gz
-mv hadoop-3.1.2 hadoop
+tar xzf hadoop-3.1.3.tar.gz
+mv hadoop-3.1.3 /usr/local
 
 
 .bashrc
